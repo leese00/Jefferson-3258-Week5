@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Brick
   - lossScore
+  - BallReset
   layers:
   - Default
   - TransparentFX
